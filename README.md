@@ -10,7 +10,6 @@ Used Excel to create a Big Fashion Group sales dashboard to track the company's 
 ##### •	Developed criteria to assist with sorting and filtering relevant data.
 ##### •	Monitor sales activity and analyzed sales trends to project potential increases and decreases in sales activity.
 ![tbl1.1](IMAGES/SALES EXCEL DASHBOARD/tbl1.1.png)
-##### •	Utilized data analysis to improve the accuracy and timeliness of reporting.
 ##### •	Enhanced management’s ability to make informed decisions on sales processes.
 ![tbl3.1](IMAGES/SALES EXCEL DASHBOARD/tbl3.1.png)
 ##### •	Optimized the user experience by creating interactive dashboards with intuitive navigation.
